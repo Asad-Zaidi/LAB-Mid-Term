@@ -105,3 +105,21 @@ h1 {
 .faq.active .faq-toggle {
     background-color: #9fa4a8;
 }
+
+.inputfield {
+    max-width: 400px;
+    gap: 12px;
+    margin: 20px;
+    border: 1px solid #9fa4a8;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+input[type=text] {
+    padding: 12px 20px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
